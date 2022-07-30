@@ -1,0 +1,6 @@
+{
+  "appId": "de.y4gn1.attunator",
+  "appName": "attunator",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

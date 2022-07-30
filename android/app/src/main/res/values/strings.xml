@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">attunator</string>
+    <string name="title_activity_main">attunator</string>
+    <string name="package_name">de.y4gn1.attunator</string>
+    <string name="custom_url_scheme">de.y4gn1.attunator</string>
+</resources>
